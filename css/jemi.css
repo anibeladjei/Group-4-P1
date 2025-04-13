@@ -50,3 +50,10 @@ span{
 i{
     color: rgb(49, 151, 192);
 }
+@media (max-width: 768px) {
+    .mag {
+      flex-direction: column;
+      padding: 40px 20px;
+      text-align: center;
+    }
+}
