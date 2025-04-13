@@ -4,3 +4,49 @@
     box-sizing: border-box;
     font-family: 'Arial', sans-serif;
 }
+.items{
+    padding: 90px  140px;
+    
+}
+.ss{
+    font-style: italic;
+    color: rgb(59, 96, 216); 
+   font-size: large;
+   padding: 2px 75px;
+}
+span{
+    font-size: xx-large;
+    font-style: bold;
+    font-weight: bolder;
+}
+.mag {
+    display: flex;
+    background-color: rgb(243, 238, 233);
+}
+.me{
+    padding: 2px 65px;
+    font-style: normal;
+    font-size: small;
+}
+.bi{ 
+    display: flex;
+    gap: 15px;
+}
+.sn button{
+    background-color: blue;
+    color: aliceblue;
+    padding: 10px;
+}
+.rm button{
+    background-color: rgb(242, 242, 252);
+    color: rgb(134, 158, 179);
+    padding: 10px;
+}
+.contain{
+    display: flex;
+    gap: 45px;
+    margin: 25px 145px;
+}
+i{
+    color: rgb(49, 151, 192);
+}
